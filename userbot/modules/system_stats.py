@@ -172,9 +172,9 @@ async def amireallyalive(alive):
     output = (
         f"**[Man-Userbot](https://github.com/mrismanaziz/Man-Userbot) is Up and Running.**\n\n"
         f"**{alive_text}**\n\n"
-        f"{emoji} **Master :** [{user.first_name}](tg://user?id={user.id}) \n"
+        f"{emoji} **My Lord :** [{user.first_name}](tg://user?id={user.id}) \n"
         f"{emoji} **Modules :** `{len(modules)} Modules` \n"
-        f"{emoji} **Bot Version :** `{BOT_VER}` \n"
+        f"{emoji} **kontol Version :** `{BOT_VER}` \n"
         f"{emoji} **Python Version :** `{python_version()}` \n"
         f"{emoji} **Pytgcalls Version :** `{pytgcalls.__version__}` \n"
         f"{emoji} **Telethon Version :** `{version.__version__}` \n"
